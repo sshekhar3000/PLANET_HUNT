@@ -3,14 +3,12 @@
   <h2 align="center">👉Arcade Game in C# Script.👈</h2>
 </p>
 
-
 <p align="center">
 <img src="https://img.shields.io/badge/language-C-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/language-C#-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/language-GameDevelopment-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/language-Unity-blue?style=for-the-badge">  
  </p>
- 
  
 ## 📌 Introduction
 
@@ -43,7 +41,7 @@ For major changes, you are welcome to open an issue to discuss what you would li
 <p align = "center">
   
 <a href="#"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)]
+[built with love](https://forthebadge.com/images/badges/built-with-love.svg)]
 
 </p>
 
